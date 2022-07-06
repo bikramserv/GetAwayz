@@ -1,0 +1,32 @@
+﻿@inherits LayoutComponentBase
+
+<MudThemeProvider Theme="DevOpsTheme"/>
+<MudDialogProvider />
+<MudSnackbarProvider />
+
+<MudLayout>
+    <Header OnDrawerToggle="@DrawerToggle" />
+    <Sidebar DrawerOpen="@_drawerOpen"/>
+    <MudMainContent>
+        @Body
+    </MudMainContent>
+</MudLayout>
+
+@code {
+    bool _drawerOpen = true;
+
+    void DrawerToggle()
+    {
+        _drawerOpen = !_drawerOpen;
+    }
+
+    MudTheme DevOpsTheme = new MudTheme()
+    {
+        Palette = new Palette()
+        {
+            Primary = Colors.Blue.Lighten2,
+            Secondary = Colors.Red.Default,
+            ErrorLighten = Colors.Red.Lighten3            
+        },        
+    };
+}

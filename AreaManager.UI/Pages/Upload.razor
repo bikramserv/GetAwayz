@@ -1,0 +1,47 @@
+﻿@page "/upload"
+@inject ISnackbar Snackbar
+
+<MudCard>
+    <MudCardContent>
+        @if (uploadErrors.Any())
+        {
+            <MudAlert Severity="Severity.Error">
+                <MudText Typo="Typo.subtitle2" Class="mb-3">Upload errors</MudText>
+                <ul>
+                    @foreach (var error in uploadErrors)
+                    {
+                        <li>@error</li>
+                    }
+                </ul>
+            </MudAlert>
+        }
+        @if (uploadedSuccessfully.Any())
+        {
+            <MudAlert Severity="Severity.Success">
+                <MudText Typo="Typo.subtitle2" Class="mb-3">Files uploaded successfully!</MudText>
+                <ul>
+                    @foreach (var success in uploadedSuccessfully)
+                    {
+                        <li>@success</li>
+                    }
+                </ul>
+            </MudAlert>
+        }
+
+        <MudPaper @ondragenter="@SetDragClass" @ondragleave="@ClearDragClass" @ondragend="@ClearDragClass" Height="300px" Outlined="true" Class="@dragClass">
+            @if (!clearing)
+            {
+                <InputFile OnChange="OnInputFileChanged" multiple accept="*" class="absolute mud-width-full mud-height-full overflow-hidden z-2" style="opacity:0;" />
+            }
+            <MudText Typo="Typo.h6">Drag and drop Map files here or click</MudText>
+            @foreach (var file in files)
+            {
+                <MudChip Color="Color.Dark" Text="@file.Name"/>
+            }
+        </MudPaper>
+        <MudToolBar DisableGutters="true" Class="gap-4">
+            <MudButton OnClick="UploadFiles" Disabled="@(!files.Any() || progress)" Color="Color.Primary" Variant="Variant.Filled">Upload</MudButton>
+            <MudButton OnClick="Clear" Disabled="@((!files.Any() && !uploadErrors.Any() && !uploadedSuccessfully.Any()) || progress)" Color="Color.Error" Variant="Variant.Filled">Clear</MudButton>
+        </MudToolBar>
+    </MudCardContent>
+</MudCard>

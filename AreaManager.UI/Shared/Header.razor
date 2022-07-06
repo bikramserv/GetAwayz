@@ -1,0 +1,28 @@
+@using AreaManager.Core.Extensions
+
+<MudAppBar Elevation="0" Color="Color.Dark">
+    <MudIconButton Icon="@Icons.Material.Filled.Menu" Color="Color.Inherit" Edge="Edge.Start" OnClick="@((e) => DrawerToggleAsync())"/>
+    <MudSpacer/>
+    <AuthorizeView>
+        <Authorized>
+            <MudMenu>
+                <ActivatorContent>
+                    <MudAvatar Color="Color.Primary">ND</MudAvatar>
+                </ActivatorContent>
+                <ChildContent>
+                    <MudMenuItem><a href="/Account/SignOut">Sign out</a></MudMenuItem>
+                </ChildContent>
+            </MudMenu>
+        </Authorized>
+    </AuthorizeView>
+</MudAppBar>
+
+@code {
+    [Parameter]
+    public EventCallback OnDrawerToggle { get; set; }
+
+    private async Task DrawerToggleAsync()
+    {
+        await OnDrawerToggle.InvokeAsync();
+    }
+}
