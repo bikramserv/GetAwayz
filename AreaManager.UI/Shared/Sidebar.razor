@@ -1,0 +1,11 @@
+﻿<MudDrawer @bind-Open="DrawerOpen" Elevation="2" Color="Color.Dark">
+    <MudImage Src="assets/images/Getway.png" Alt="Get Awayz" Elevation="0" Width="200" />
+    <MudDrawerHeader>
+        <MudText Typo="Typo.subtitle1" Class="mt-1">Areas Manager</MudText>
+    </MudDrawerHeader>
+    <NavMenu/>
+</MudDrawer>
+
+@code {
+    [Parameter] public bool DrawerOpen { get; set; } = true;
+}

@@ -1,0 +1,7 @@
+﻿.expired {
+    background-color: var(--mud-palette-error-lighten);
+}
+.expired-icon {
+    color: var(--mud-palette-error-lighten);
+    vertical-align: bottom;
+}

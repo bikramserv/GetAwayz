@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj",
+        "projectName": "AreaManager.Core",
+        "projectPath": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj",
+        "packagesPath": "C:\\Users\\b.mohanty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\b.mohanty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj": {
+                "projectPath": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj",
+        "projectName": "AreaManager.Data",
+        "projectPath": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj",
+        "packagesPath": "C:\\Users\\b.mohanty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\b.mohanty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

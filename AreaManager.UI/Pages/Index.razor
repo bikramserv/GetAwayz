@@ -1,0 +1,41 @@
+﻿@page "/"
+@page "/list"
+
+<MudCard>
+    <MudCardContent>
+        <MudText Typo="Typo.h4" class="mb-2">Areas</MudText>
+        <MudTable Items="@Areas" Hover="true" Breakpoint="Breakpoint.Sm" LoadingProgressColor="Color.Info">
+            <HeaderContent>
+                <MudTh>Id</MudTh>
+                <MudTh>plot No</MudTh>
+                <MudTh>longitude</MudTh>
+                <MudTh>latitude</MudTh>
+                <MudTh>publicplace</MudTh>
+                <MudTh>postcode</MudTh>
+                <MudTh>village</MudTh>
+                <MudTh>street</MudTh>
+                <MudTh>town</MudTh>
+                <MudTh>district</MudTh>
+                <MudTh>state</MudTh>
+                <MudTh>country</MudTh>
+                <MudTh>updated_by</MudTh>
+            </HeaderContent>
+            <RowTemplate>
+                <MudTd DataLabel="Nr">@context.Id</MudTd>
+                <MudTd DataLabel="Nr">@context.PlotNo</MudTd>
+                <MudTd DataLabel="Nr">@context.Longitude</MudTd>
+                <MudTd DataLabel="Nr">@context.Latitude</MudTd>
+                <MudTd DataLabel="Nr">@context.PublicPlace</MudTd>
+                <MudTd DataLabel="Nr">@context.PostCode</MudTd>
+                <MudTd DataLabel="Nr">@context.Village</MudTd>
+                <MudTd DataLabel="Nr">@context.Street</MudTd>
+                <MudTd DataLabel="Nr">@context.Town</MudTd>
+                <MudTd DataLabel="Nr">@context.District</MudTd>
+                <MudTd DataLabel="Nr">@context.State</MudTd>
+                <MudTd DataLabel="Nr">@context.Country</MudTd>
+                <MudTd DataLabel="Nr">@context.Updated_by</MudTd>
+            </RowTemplate>
+        </MudTable>
+    </MudCardContent>
+</MudCard>
+
