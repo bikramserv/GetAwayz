@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'GetWayz'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5036213B321B462699EC136CA432CDEF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_952B61995FD847BFB1A24B69819E60E3 }}
           package: .
