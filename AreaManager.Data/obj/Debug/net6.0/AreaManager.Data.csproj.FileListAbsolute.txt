@@ -34,3 +34,15 @@ C:\Users\b.mohanty\source\repos\GetAwayz\AreaManager.Data\obj\Debug\net6.0\AreaM
 C:\Users\b.mohanty\source\repos\GetAwayz\AreaManager.Data\obj\Debug\net6.0\refint\AreaManager.Data.dll
 C:\Users\b.mohanty\source\repos\GetAwayz\AreaManager.Data\obj\Debug\net6.0\AreaManager.Data.pdb
 C:\Users\b.mohanty\source\repos\GetAwayz\AreaManager.Data\obj\Debug\net6.0\ref\AreaManager.Data.dll
+C:\source\repos\GetAwayz\AreaManager.Data\bin\Debug\net6.0\AreaManager.Data.deps.json
+C:\source\repos\GetAwayz\AreaManager.Data\bin\Debug\net6.0\AreaManager.Data.dll
+C:\source\repos\GetAwayz\AreaManager.Data\bin\Debug\net6.0\AreaManager.Data.pdb
+C:\source\repos\GetAwayz\AreaManager.Data\obj\Debug\net6.0\AreaManager.Data.csproj.AssemblyReference.cache
+C:\source\repos\GetAwayz\AreaManager.Data\obj\Debug\net6.0\AreaManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\GetAwayz\AreaManager.Data\obj\Debug\net6.0\AreaManager.Data.AssemblyInfoInputs.cache
+C:\source\repos\GetAwayz\AreaManager.Data\obj\Debug\net6.0\AreaManager.Data.AssemblyInfo.cs
+C:\source\repos\GetAwayz\AreaManager.Data\obj\Debug\net6.0\AreaManager.Data.csproj.CoreCompileInputs.cache
+C:\source\repos\GetAwayz\AreaManager.Data\obj\Debug\net6.0\AreaManager.Data.dll
+C:\source\repos\GetAwayz\AreaManager.Data\obj\Debug\net6.0\refint\AreaManager.Data.dll
+C:\source\repos\GetAwayz\AreaManager.Data\obj\Debug\net6.0\AreaManager.Data.pdb
+C:\source\repos\GetAwayz\AreaManager.Data\obj\Debug\net6.0\ref\AreaManager.Data.dll

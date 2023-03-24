@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.UI\\AreaManager.UI.csproj": {}
+    "C:\\source\\repos\\GetAwayz\\AreaManager.UI\\AreaManager.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj": {
+    "C:\\source\\repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj",
+        "projectUniqueName": "C:\\source\\repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj",
         "projectName": "AreaManager.Core",
-        "projectPath": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj",
-        "packagesPath": "C:\\Users\\b.mohanty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Core\\obj\\",
+        "projectPath": "C:\\source\\repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj",
+        "packagesPath": "C:\\Users\\TEMP\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\GetAwayz\\AreaManager.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\b.mohanty\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\TEMP\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj": {
-                "projectPath": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj"
+              "C:\\source\\repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj": {
+                "projectPath": "C:\\source\\repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj"
               }
             }
           }
@@ -49,7 +47,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,28 +57,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.309\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj": {
+    "C:\\source\\repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj",
+        "projectUniqueName": "C:\\source\\repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj",
         "projectName": "AreaManager.Data",
-        "projectPath": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj",
-        "packagesPath": "C:\\Users\\b.mohanty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Data\\obj\\",
+        "projectPath": "C:\\source\\repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj",
+        "packagesPath": "C:\\Users\\TEMP\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\GetAwayz\\AreaManager.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\b.mohanty\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\TEMP\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -109,7 +106,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -118,36 +116,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.309\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.UI\\AreaManager.UI.csproj": {
+    "C:\\source\\repos\\GetAwayz\\AreaManager.UI\\AreaManager.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.UI\\AreaManager.UI.csproj",
+        "projectUniqueName": "C:\\source\\repos\\GetAwayz\\AreaManager.UI\\AreaManager.UI.csproj",
         "projectName": "AreaManager.UI",
-        "projectPath": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.UI\\AreaManager.UI.csproj",
-        "packagesPath": "C:\\Users\\b.mohanty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.UI\\obj\\",
+        "projectPath": "C:\\source\\repos\\GetAwayz\\AreaManager.UI\\AreaManager.UI.csproj",
+        "packagesPath": "C:\\Users\\TEMP\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\GetAwayz\\AreaManager.UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\b.mohanty\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\TEMP\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj": {
-                "projectPath": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj"
+              "C:\\source\\repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj": {
+                "projectPath": "C:\\source\\repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj"
               }
             }
           }
@@ -195,7 +191,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -207,7 +204,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.309\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }
