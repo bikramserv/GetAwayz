@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\AreaManager.Core",
-    "\\AreaManager.Data",
-    "\\AreaManager.UI"
+    ""
   ],
+  "SelectedNode": "\\AreaManager.sln",
   "PreviewInSolutionExplorer": false
 }

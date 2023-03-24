@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CFxbvN5YSO8nvfWP1tPI6Sh1/V+6spcwYxPG7Zl4MlI=",
+  "Hash": "b29PrFxSQ9vMhHSvCx7qatDqazd+Yeku9rVlEwU1V4I=",
   "Source": "AreaManager.UI",
   "BasePath": "_content/AreaManager.UI",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "AreaManager.UI\\wwwroot",
       "Source": "AreaManager.UI",
-      "ContentRoot": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.UI\\wwwroot\\",
       "BasePath": "_content/AreaManager.UI",
       "Pattern": "**"
     }
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "C:\\Users\\b.mohanty\\.nuget\\packages\\mudblazor\\6.0.10\\staticwebassets\\MudBlazor.min.js"
     },
     {
-      "Identity": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.UI\\wwwroot\\assets\\css\\styles.css",
+      "Identity": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.UI\\wwwroot\\assets\\css\\styles.css",
       "SourceId": "AreaManager.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.UI\\wwwroot\\",
       "BasePath": "_content/AreaManager.UI",
       "RelativePath": "assets/css/styles.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.UI\\wwwroot\\assets\\images\\easymapweb1-difforint.png",
+      "Identity": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.UI\\wwwroot\\assets\\images\\easymapweb1-difforint.png",
       "SourceId": "AreaManager.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.UI\\wwwroot\\",
       "BasePath": "_content/AreaManager.UI",
       "RelativePath": "assets/images/easymapweb1-difforint.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\easymapweb1-difforint.png"
     },
     {
-      "Identity": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.UI\\wwwroot\\assets\\images\\Getway.png",
+      "Identity": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.UI\\wwwroot\\assets\\images\\Getway.png",
       "SourceId": "AreaManager.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.UI\\wwwroot\\",
       "BasePath": "_content/AreaManager.UI",
       "RelativePath": "assets/images/Getway.png",
       "AssetKind": "All",

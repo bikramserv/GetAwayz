@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj": {}
+    "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj": {
+    "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj",
+        "projectUniqueName": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj",
         "projectName": "AreaManager.Core",
-        "projectPath": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj",
+        "projectPath": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Core\\AreaManager.Core.csproj",
         "packagesPath": "C:\\Users\\b.mohanty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Core\\obj\\",
+        "outputPath": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\b.mohanty\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj": {
-                "projectPath": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj"
+              "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj": {
+                "projectPath": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj"
               }
             }
           }
@@ -58,18 +58,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.309\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj": {
+    "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj",
+        "projectUniqueName": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj",
         "projectName": "AreaManager.Data",
-        "projectPath": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj",
+        "projectPath": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Data\\AreaManager.Data.csproj",
         "packagesPath": "C:\\Users\\b.mohanty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\b.mohanty\\source\\repos\\GetAwayz\\AreaManager.Data\\obj\\",
+        "outputPath": "C:\\Users\\b.mohanty\\Source\\Repos\\GetAwayz\\AreaManager.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\b.mohanty\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -118,7 +118,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.309\\RuntimeIdentifierGraph.json"
         }
       }
     }
